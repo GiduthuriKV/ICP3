@@ -1,1 +1,3 @@
+For code 1,, as asked first created class for Employee and FulltimeEmployee which later created a constructor and also initialized some of basic info of the employess. Now wrote a function to calculate the average salary.Inherited the employee class properties into FulltimeEmployee class, Call the members of the function.
 
+For Code 2 I tried to create a random vector of size 20 with float values between 1 and 20 using the np.random.uniform() function. It then reshapes the array to 4 by 5 using the np.reshape() function. Finally, it replaces the max value in each row (axis=1) with 0 using numpy advanced indexing and argmax function.
